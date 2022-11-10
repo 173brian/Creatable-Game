@@ -1,0 +1,6 @@
+key XmIy4M1np6
+name Tim2.0
+health 999
+attack 999
+defense 999
+heat_resistance true
